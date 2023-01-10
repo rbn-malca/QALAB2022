@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-
+// editado por RUBEN SANCHEZ MALCA al proyecto POO_Game
         Toyota toyo = new Toyota("PAS201"); //200
         toyo.encenderMotor();
         toyo.avanzar();
